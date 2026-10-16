@@ -2,6 +2,13 @@
   "repo": "dayuse",
   "feeds": [
     {
+      "source": "https://www.dayuse.com/pages/newsroom",
+      "feed_url": "https://www.dayuse.com/pages/newsroom",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
       "source": "https://www.dayuse.com/pages/dayuse/data-privacy",
       "feed_url": "https://www.dayuse.com/pages/dayuse/data-privacy",
       "title": "",
@@ -10,5 +17,5 @@
     }
   ],
   "post_count": 0,
-  "fetched": "2026-10-03T12:30:02Z"
+  "fetched": "2026-10-10T13:15:00Z"
 }
